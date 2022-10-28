@@ -10,6 +10,9 @@ ArcBall is a class that implements the ArcBall method of moving a scene around w
 The resources directory contains the shaders we programmed, more specifically we programmed the perFragmentLighting_frag.glsl
 to implement the shadows on our scene.
 
+The project taught me to use camera and orthographic projections to implement arcball and also manipulate
+lighting to have shadows appear on the scene. I am also a lot more comfortable with implementing shader code.
+
 Due to the packages that you would have to install to make the build work, I have provided
 a short video detailing all the light, shadows, and arc ball features of the project as well as the source code to show the behind the scenes of the project.
 
